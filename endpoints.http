@@ -4,9 +4,10 @@ GET http://localhost:3333
 
 
 
+###
+GET http://localhost:3333/senai
 
-
-# GET http://localhost:3333/artigos
+GET http://localhost:3333/artigos
 
 # ###
 
